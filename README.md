@@ -17,7 +17,7 @@ Follow these steps to set up and run the project locally.
 Clone the repository to your local machine:
 
 ```code
-git clone https://github.com/your-repo-name/upfirst.git](https://github.com/ndyarborough/upfirst-oauth2.git
+git clone https://github.com/ndyarborough/upfirst-oauth2.git;
 cd upfirst
 ```
 
