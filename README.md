@@ -28,11 +28,16 @@ cd upfirst
 npm install
 ```
 
-### 3. Running the application
+### 3. Running the application requires two terminals
 
-
+#### Terminal 1
 ```bash
+cd upfirst/;
 npm run start;
+```
+#### Terminal 2
+```bash
+cd upfirst/;
 npm run start:process;
 ```
 
